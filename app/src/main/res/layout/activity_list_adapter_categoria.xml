@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:id="@+id/categoriaLayout"
+    android:background="@drawable/categoria_background"
+    android:layout_marginBottom="8dp">
+
+    <TextView
+        android:id="@+id/nombreCategoriaAdapter"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:textColor="@color/black"
+        android:fontFamily="sans-serif-medium"
+        android:padding="8dp"
+        android:text="Categoria"/>
+
+</LinearLayout>

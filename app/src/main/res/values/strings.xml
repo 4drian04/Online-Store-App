@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ProductosOnline-AGG</string>
+    <string name="tituloApp">Bienvenido a MonroyShop</string>
+    <string name="iniciar_sesion_text">Iniciar Sesión</string>
+    <string name="nombre_de_usuario_text">Nombre de usuario</string>
+    <string name="contrasenhaText">Contraseña</string>
+    <string name="textoRegistrarse">¿No tienes una cuenta? Introduce los datos y registrate</string>
+    <string name="registrarseButtonText">Registrarse</string>
+    <string name="tituloMenu">¿Qué desea hacer?</string>
+    <string name="listaPedidosButtonText">Listar Pedidos Realizados</string>
+    <string name="realizarPedidoButtonText">Realizar pedidos</string>
+    <string name="cerrarSesionButtonText">Cerrar sesión</string>
+    <string name="tituloListaProductos">PRODUCTOS</string>
+    <string name="tituloListaPedidos">PEDIDOS</string>
+    <string name="tituloListaCategorias">Categorias</string>
+    <string name="tituloDetallePedido">PRODUCTOS DEL PEDIDO</string>
+</resources>
